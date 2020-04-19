@@ -14,7 +14,13 @@ This is an exercise I do when I study data science, which is convenient for futu
   - [4.4 数组的属性](https://github.com/pleuvoir/ML-01/blob/master/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch4_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.py#L74)
   - [4.5 数组的轴](https://github.com/pleuvoir/ML-01/blob/master/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch4_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.py#L85)
   - [4.6 数组的转置](https://github.com/pleuvoir/ML-01/blob/master/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch4_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84.py#L106)
-
+- [5_访问数组]
+  - [5.1 索引访问]
+  - [5.2 切片访问]
+  - [5.3 布尔索引]
+  - [5.4 花式索引]
+  - [5.5 迭代数组]
+    
 ##
 - [pandas](#)
 - [Usage](#usage)
