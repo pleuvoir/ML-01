@@ -32,6 +32,7 @@ This is an exercise I do when I study data science, which is convenient for futu
 - [Usage](#usage)
   - [Adding toc to individual files](#adding-toc-to-individual-files)
     - [Examples](#examples)
+    - [5.5 迭代数组](/blob/master/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch5_%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84/%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84.py#L114)
 
 
 
