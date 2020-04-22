@@ -21,10 +21,10 @@ This is an exercise I do when I study data science, which is convenient for futu
   - [花式索引](/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch5_%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84/%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84.py#L67)
   - [迭代数组](/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch5_%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84/%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84.py#L114)
 - [数组操作](#)
-    - [连接数组](#)
-    - [分割数组](#)
-    - [算数运算](#)
-    - [广播](#)
+    - [连接数组](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L4)
+    - [分割数组](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L67)
+    - [算数运算](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L121)
+    - [广播](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L137)
     
 ##
 - [pandas](#)
