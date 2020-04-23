@@ -26,8 +26,8 @@ This is an exercise I do when I study data science, which is convenient for futu
     - [算数运算](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L121)
     - [广播](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L137)
 - [函数大全](#)
-    - [数学运算函数](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L4)
-    - [自定义通用函数](/01_科学计算库-numpy-extend/ch6_数组操作/数组操作.py#L4)
+    - [数学运算函数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L7)
+    - [自定义通用函数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L63)
 
 ##
 - [pandas](#)
