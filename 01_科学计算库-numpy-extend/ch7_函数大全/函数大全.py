@@ -98,3 +98,23 @@ print(substract)
 #  [9 9 9]
 # [6 6 6]
 # [3 3 3]]
+
+"""
+8.1 随机数
+"""
+
+# 常用随机数
+
+print('常用随机数')
+random_array = np.random.random(10)  # 生成10个 0-1之间的数
+print(random_array)
+# [0.40067346 0.99690032 0.2148416  0.6733348  0.87010673 0.43761419
+#  0.48943912 0.78511117 0.61777445 0.58047221]
+
+randint = np.random.randint(1, 3, dtype=np.int, size=(3, 2))  # [1,3)  指定shape
+print(randint)
+# [[1 2]
+#  [2 2]
+# [1 1]]
+
+print('正态分布随机数')
