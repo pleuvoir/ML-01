@@ -2,8 +2,8 @@
 
 This is an exercise I do when I study data science, which is convenient for future reference and I hope to help you.
 
-## 
-- [numpy](#)
+### numpy
+
 - [编写numpy程序](#)
   - [创建一维数组](/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch3_%E7%BC%96%E5%86%99numpy%E7%A8%8B%E5%BA%8F/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84.py#L7)
   - [数据类型](/01_%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93-numpy-extend/ch3_%E7%BC%96%E5%86%99numpy%E7%A8%8B%E5%BA%8F/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84.py#L31)
@@ -28,18 +28,11 @@ This is an exercise I do when I study data science, which is convenient for futu
 - [函数大全](#)
     - [数学运算函数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L7)
     - [自定义通用函数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L63)
+    - [随机数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L103)
+    - [排序](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L153)
+    - [聚合函数](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L179)
+    - [数组保存](/01_科学计算库-numpy-extend/ch7_函数大全/函数大全.py#L238)
 
-##
-- [pandas](#)
-- [Usage](#usage)
-  - [Adding toc to individual files](#adding-toc-to-individual-files)
-    - [Examples](#examples)
-
-## 
-- [matplotlib](#)
-- [Usage](#usage)
-  - [Adding toc to individual files](#adding-toc-to-individual-files)
-    - [Examples](#examples)
 
 
 
